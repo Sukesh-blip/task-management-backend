@@ -1,0 +1,8 @@
+target/
+*.class
+*.jar
+.settings/
+.classpath
+.project
+*.sts4-cache
+src/main/resources/application-secrets.properties
